@@ -1,0 +1,15 @@
+{
+  "providers": {
+    "tinkoff": {
+      "token": "tinkoff_token"
+    },
+    "quik": {
+      "account": "account",
+      "host": "127.0.0.1",
+      "port": {
+        "cmd": "34130",
+        "callback": "34131"
+      }
+    }
+  }
+}
